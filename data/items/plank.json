@@ -1,0 +1,30 @@
+{
+    "item-jsonver": 2,
+    
+    "id": "plank",
+    "display_name":"Plank",
+    
+    "durability": 1,
+    "tool": false,
+    "tool_type": null,
+
+    "crafting_recipe": {
+        "r3x3":[
+            "B","A","A",
+            "A","A","A",
+            "A","A","A"
+        ],
+        "r2x2":[
+            "B","A",
+            "A","A"
+        ],
+        "pattern":[
+            "B"
+        ],
+        "follow_pattern":true,
+        "A": "none",
+        "B": "wood",
+        "2x2_craftable": true
+    }
+
+}
