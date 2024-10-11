@@ -1,7 +1,5 @@
 {
-    "versionP": "0.0",
-    "stateP": "pre-alpha",
-    "versionD": "0.1",
-    "stateD": "alpha",
+    "version": "SD_01-10-11-2024",
+    "state": "pre-alpha",
     "indev": true
 }
