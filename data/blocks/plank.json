@@ -1,0 +1,10 @@
+{
+    "block-jsonver": 2,
+    
+    "id": "plank",
+    "drop":"plank",
+    "image":"blocks/plank",
+
+    "durability": 7.5,
+    "breaking_tool":"axe"
+}

@@ -1,8 +1,9 @@
 {
-    "item-jsonver": 3,
+    "item-jsonver": 4,
     
     "id": "stick",
     "display_name":"Stick",
+    "image":"items/plank",
     
     "durability": 1,
     "tool": false,

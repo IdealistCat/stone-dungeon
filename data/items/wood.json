@@ -1,8 +1,9 @@
 {
-    "item-jsonver": 3,
+    "item-jsonver": 4,
     
     "id": "wood",
     "display_name":"Wood",
+    "image":"blocks/wood",
     
     "durability": 1,
     "tool": false,

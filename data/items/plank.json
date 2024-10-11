@@ -1,8 +1,9 @@
 {
-    "item-jsonver": 3,
+    "item-jsonver": 4,
     
     "id": "plank",
     "display_name":"Plank",
+    "image":"blocks/plank",
     
     "durability": 1,
     "tool": false,
