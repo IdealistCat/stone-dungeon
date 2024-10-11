@@ -1,0 +1,31 @@
+{
+    "item-jsonver": 3,
+    
+    "id": "wood",
+    "display_name":"Wood",
+    
+    "durability": 1,
+    "tool": false,
+    "tool_type": null,
+
+    "crafting_recipe": {
+        "r3x3":[
+            "B","A","A",
+            "A","A","A",
+            "A","A","A"
+        ],
+        "r2x2":[
+            "B","A",
+            "A","A"
+        ],
+        "pattern":[
+            "B"
+        ],
+        "follow_pattern":true,
+        "craftable":false,
+        "A": "none",
+        "B": "wood",
+        "2x2_craftable": true
+    }
+
+}
