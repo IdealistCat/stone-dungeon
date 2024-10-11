@@ -1,0 +1,25 @@
+{
+    "item-jsonver": 1,
+    
+    "id": "stick",
+    "display_name":"Stick",
+    
+    "durability": 1,
+    "tool": false,
+
+    "crafting_recipe": {
+        "r3x3":[
+            "B","A","A",
+            "A","B","A",
+            "A","A","A"
+        ],
+        "r2x2":[
+            "B","A",
+            "A","B"
+        ],
+        "A": "none",
+        "B": "plank",
+        "2x2_craftable": true
+    }
+
+}
