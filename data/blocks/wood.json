@@ -1,0 +1,9 @@
+{
+    "block-jsonver": 1,
+    
+    "id": "wood",
+    "drop":"wood",
+
+    "durability": 15,
+    "breaking_tool":"axe"
+}
