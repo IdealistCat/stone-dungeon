@@ -1,5 +1,5 @@
 {
-    "item-jsonver": 2,
+    "item-jsonver": 3,
     
     "id": "stick",
     "display_name":"Stick",
@@ -23,6 +23,7 @@
             "A","B"
         ],
         "follow_pattern":true,
+        "craftable":false,
         "A": "none",
         "B": "plank",
         "2x2_craftable": true
